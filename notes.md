@@ -4,7 +4,8 @@ Using regular expressions to interpret and manipulate historical text.
 
 - Installing curl to retrieve a url and output to txt file. 
 -- This actually did not work, as it was shown in the discord. Despite Dr. Graham's reccomendations, verifying that curl was installed correctly served no purpose. As seen below 
-![Error-Curl](curl error.png) 
+![](https://github.com/SuppahHacka/week-3/blob/master/curl%20error.PNG) 
+  - Also got to try out the previous reccomendation of Dr. Graham to embed the pictures directly into my notes, it worked! 
  
 
 # Task 2 - API's
