@@ -4,7 +4,7 @@ Using regular expressions to interpret and manipulate historical text.
 
 - Installing curl to retrieve a url and output to txt file. 
 -- This actually did not work, as it was shown in the discord. Despite Dr. Graham's reccomendations, verifying that curl was installed correctly served no purpose. As seen below 
-![alt-text-caption](curlerror.png) 
+![Error-Curl](curl error.png) 
  
 
 # Task 2 - API's
